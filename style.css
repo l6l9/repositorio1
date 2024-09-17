@@ -2,7 +2,9 @@
     padding: 0;
     margin: 0;
     box-sizing: border_box;
-}img{
-    width: 200;
+}
+img{
+    width: 200px;
     margin-top: 20px;
 }
+body{background-color: aquamarine;}
